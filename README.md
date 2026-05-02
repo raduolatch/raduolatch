@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning python and cpp <br>🎯 Goals: i want to creat a robotic<br>🎲 Fun fact: I want to make a robot but I don't want to take that class</p>
+<p align="left">📚 I'm currently learning python and cpp <br>🎯 Goals: I want to work at Microsoft<br>🎲 Fun fact: I want to make a robot but I don't want to take that class</p>
 
 ###
 
