@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is raduola and I'm a student , from university of north sumatra</p>
+<p align="left">My name is raduola and I'm a student , from university of north sumatra , I hope one day I can become an AI engineer.</p>
 
 ###
 
