@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<img alt="headergithub" src="img/headergithub.png>
+<img alt="headergithub" src="img/headergithub.png">
 
 ###
 
